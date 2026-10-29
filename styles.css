@@ -1,1 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
 
+h3 {
+    font-size: 24px;
+    overflow-wrap: anywhere;
+}
+
+label {
+    font-size: 18px;
+}
+
+input {
+    width: 230px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
